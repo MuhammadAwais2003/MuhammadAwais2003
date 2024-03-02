@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">A passionate in AI Machine learning from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fwoman-working-new-app_23-2148682102.jpg&tbnid=5lcM57RkreXyMM&vet=12ahUKEwiky7DVltaEAxXamicCHXGxApgQMyhYegUIARCEAw..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&docid=bLDs8haMd6jgZM&w=626&h=417&q=coding%20gif&ved=2ahUKEwiky7DVltaEAxXamicCHXGxApgQMyhYegUIARCEAw)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadawais2003&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadawais2003" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadawais2003" alt="muhammadawais2003" /></a> </p>
